@@ -13,7 +13,6 @@ Ag (silver searcher), Clink, Google Code Search, OpenSSL and more...)
 | rsync   | RSync (free) command line tools |
 
 ** ~bin~ Listing
-
 |------------------|
 | ag.exe           |
 | agrep.exe        |
@@ -155,10 +154,8 @@ Ag (silver searcher), Clink, Google Code Search, OpenSSL and more...)
 | yes.exe          |
 | zcat.exe         |
 | zip.exe          |
-|------------------|
 
 ** ~OpenSSL/bin~ Listing
-
 |----------------|
 | bftest.exe     |
 | bntest.exe     |
@@ -188,21 +185,18 @@ Ag (silver searcher), Clink, Google Code Search, OpenSSL and more...)
 | sha512t.exe    |
 | shatest.exe    |
 | ssltest.exe    |
-|----------------|
 
 ** ~csearch~ Listing
-
 |-------------|
 | cgrep.exe   |
 | cindex.exe  |
 | csearch.exe |
-|-------------|
+
 
 ** ~locate~ Listing
-
 |--------------|
 | locate32.exe |
 | locate.exe   |
 | SetTool.exe  |
 | Updtdb32.exe |
-|--------------|
+
