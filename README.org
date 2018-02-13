@@ -1,0 +1,208 @@
+# win-tools
+
+A collection of useful command line tools for PC (includes Unix tools,
+Ag (silver searcher), Clink, Google Code Search, OpenSSL and more...)
+
+| Folder  | Content                         |
+|---------+---------------------------------|
+| bin     | Common Unix command line tools  |
+| clink   | Clink                           |
+| csearch | The Google Code Search          |
+| locate  | Locate for Windows              |
+| openssl | OpenSSL command line tools      |
+| rsync   | RSync (free) command line tools |
+
+** ~bin~ Listing
+
+|------------------|
+| ag.exe           |
+| agrep.exe        |
+| ansi2knr.exe     |
+| awk.exe          |
+| basename.exe     |
+| bash.exe         |
+| bc.exe           |
+| bison.exe        |
+| bunzip2.exe      |
+| bzip2.exe        |
+| bzip2recover.exe |
+| cat.exe          |
+| chgrp.exe        |
+| chmod.exe        |
+| chown.exe        |
+| chroot.exe       |
+| cksum.exe        |
+| cmp.exe          |
+| comm.exe         |
+| compress.exe     |
+| cp.exe           |
+| csplit.exe       |
+| curl.exe         |
+| cut.exe          |
+| date.exe         |
+| dc.exe           |
+| dd.exe           |
+| df.exe           |
+| diff3.exe        |
+| diff.exe         |
+| dircolors.exe    |
+| dirname.exe      |
+| dos2unix.exe     |
+| du.exe           |
+| echo.exe         |
+| egrep.exe        |
+| env.exe          |
+| expand.exe       |
+| expr.exe         |
+| factor.exe       |
+| fgrep.exe        |
+| find.exe         |
+| flex.exe         |
+| fmt.exe          |
+| fold.exe         |
+| fsplit.exe       |
+| gawk.exe         |
+| gclip.exe        |
+| gfind.exe        |
+| gplay.exe        |
+| grep.exe         |
+| gsar.exe         |
+| gsort.exe        |
+| gunzip.exe       |
+| gzip.exe         |
+| head.exe         |
+| hostid.exe       |
+| hostname.exe     |
+| id.exe           |
+| indent.exe       |
+| install.exe      |
+| join.exe         |
+| jwhois.exe       |
+| less.exe         |
+| lesskey.exe      |
+| ln.exe           |
+| logname.exe      |
+| ls.exe           |
+| m4.exe           |
+| makedepend.exe   |
+| make.exe         |
+| makemsg.exe      |
+| man.exe          |
+| md5sum.exe       |
+| mkdir.exe        |
+| mkfifo.exe       |
+| mknod.exe        |
+| mvdir.exe        |
+| mv.exe           |
+| nano.exe         |
+| ncftp.exe        |
+| nl.exe           |
+| od.exe           |
+| pageant.exe      |
+| paste.exe        |
+| patch.exe        |
+| pathchk.exe      |
+| pclip.exe        |
+| plink.exe        |
+| pr.exe           |
+| printenv.exe     |
+| printf.exe       |
+| pscp.exe         |
+| psftp.exe        |
+| putty.exe        |
+| puttygen.exe     |
+| pwd.exe          |
+| recode.exe       |
+| rman.exe         |
+| rmdir.exe        |
+| rm.exe           |
+| sdiff.exe        |
+| sed.exe          |
+| seq.exe          |
+| sha1sum.exe      |
+| shar.exe         |
+| sleep.exe        |
+| sort.exe         |
+| split.exe        |
+| stego.exe        |
+| su.exe           |
+| sum.exe          |
+| sync.exe         |
+| tac.exe          |
+| tail.exe         |
+| tar.exe          |
+| tee.exe          |
+| test.exe         |
+| touch.exe        |
+| tr.exe           |
+| type.exe         |
+| uname.exe        |
+| unexpand.exe     |
+| uniq.exe         |
+| unix2dos.exe     |
+| unlink.exe       |
+| unrar.exe        |
+| unshar.exe       |
+| unzip.exe        |
+| uudecode.exe     |
+| uuencode.exe     |
+| vim.exe          |
+| wc.exe           |
+| wget.exe         |
+| which.exe        |
+| whoami.exe       |
+| xargs.exe        |
+| yes.exe          |
+| zcat.exe         |
+| zip.exe          |
+|------------------|
+
+** ~OpenSSL/bin~ Listing
+
+|----------------|
+| bftest.exe     |
+| bntest.exe     |
+| casttest.exe   |
+| destest.exe    |
+| dhtest.exe     |
+| dsatest.exe    |
+| ecdhtest.exe   |
+| ecdsatest.exe  |
+| ectest.exe     |
+| enginetest.exe |
+| evp_test.exe   |
+| exptest.exe    |
+| hmactest.exe   |
+| ideatest.exe   |
+| md2test.exe    |
+| md4test.exe    |
+| md5test.exe    |
+| openssl.exe    |
+| randtest.exe   |
+| rc2test.exe    |
+| rc4test.exe    |
+| rmdtest.exe    |
+| rsa_test.exe   |
+| sha1test.exe   |
+| sha256t.exe    |
+| sha512t.exe    |
+| shatest.exe    |
+| ssltest.exe    |
+|----------------|
+
+** ~csearch~ Listing
+
+|-------------|
+| cgrep.exe   |
+| cindex.exe  |
+| csearch.exe |
+|-------------|
+
+** ~locate~ Listing
+
+|--------------|
+| locate32.exe |
+| locate.exe   |
+| SetTool.exe  |
+| Updtdb32.exe |
+|--------------|
